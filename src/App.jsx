@@ -38,7 +38,8 @@ function App() {
       {hasRecognitionSupport ? (
         <>
           <div>
-            <button onKeyDown={handleKeyDown}>Start Listening</button>
+            <button onKeyDown={handleKeyDown}>Start Search</button>
+            <h3>press spacebar to search</h3>
             <label>
               Select Category:
               <select value={selectedCategory} onChange={handleCategoryChange}>
