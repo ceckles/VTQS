@@ -1,14 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import useSpeechRecognition from './hooks/useSpeechRecognition';
-
-// Assuming you have the JSON data in a variable named `jsonData`
 import jsonData from './util/data.json';
 
 function App() {
   const { text, startListening, stopListening, isListening, hasRecognitionSupport } = useSpeechRecognition();
   const [matchingQuestions, setMatchingQuestions] = useState([]);
-  const [selectedCategory, setSelectedCategory] = useState('Amature_Extra'); // Default category
+  const [selectedCategory, setSelectedCategory] = useState(''); // Default: All categories
 
   useEffect(() => {
     if (text.trim() === '') {
@@ -16,9 +14,21 @@ function App() {
       return;
     }
 
-    const matchingResults = jsonData[selectedCategory].filter((item) =>
-      item.question.toLowerCase().includes(text.toLowerCase())
-    );
+    let matchingResults = [];
+
+    // If a category is selected, filter questions based on the category
+    if (selectedCategory) {
+      matchingResults = jsonData[selectedCategory].filter((item) =>
+        item.question.toLowerCase().includes(text.toLowerCase())
+      );
+    } else {
+      // If no category is selected, search all categories
+      for (const category in jsonData) {
+        matchingResults = matchingResults.concat(
+          jsonData[category].filter((item) => item.question.toLowerCase().includes(text.toLowerCase()))
+        );
+      }
+    }
 
     setMatchingQuestions(matchingResults);
   }, [text, selectedCategory]);
@@ -33,24 +43,29 @@ function App() {
     setSelectedCategory(event.target.value);
   };
 
+  // Extract unique category names from JSON data
+  const categories = Object.keys(jsonData);
+
   return (
     <div>
       {hasRecognitionSupport ? (
         <>
           <div>
-            <button onKeyDown={handleKeyDown}>Start Search</button>
-            <h3>press spacebar to search</h3>
-            <label>
-              Select Category:
-              <select value={selectedCategory} onChange={handleCategoryChange}>
-                <option value="Technician">Technician</option>
-                <option value="General">General</option>
-                <option value="Amature_Extra">Amature Extra</option>
-              </select>
-            </label>
+            <button onKeyDown={handleKeyDown}>Start Listening</button>
           </div>
           {isListening ? <div>Browser is Listening</div> : null}
           <div>Voice Text: {text}</div>
+          <div>
+            <label>Select Category:</label>
+            <select value={selectedCategory} onChange={handleCategoryChange}>
+              <option value="">All Categories</option>
+              {categories.map((category) => (
+                <option key={category} value={category}>
+                  {category}
+                </option>
+              ))}
+            </select>
+          </div>
           {matchingQuestions.length > 0 ? (
             <ul>
               {matchingQuestions.map((item, index) => (

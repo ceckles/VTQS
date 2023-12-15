@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+ul {
+  list-style: none; /* Remove default list styling (dots) */
+  padding: 0; /* Remove default padding for the list */
+  margin-top: 20px; /* Add some top margin for spacing */
+}
+
+li {
+  padding: 10px 0; /* Add padding to list items for spacing */
+}
+div {
+  padding-bottom: 20px; /* Add padding below the button */
+}
