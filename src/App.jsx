@@ -8,6 +8,7 @@ import jsonData from './util/data.json';
 function App() {
   const { text, startListening, stopListening, isListening, hasRecognitionSupport } = useSpeechRecognition();
   const [matchingQuestions, setMatchingQuestions] = useState([]);
+  const [selectedCategory, setSelectedCategory] = useState('Amature_Extra'); // Default category
 
   useEffect(() => {
     if (text.trim() === '') {
@@ -15,17 +16,21 @@ function App() {
       return;
     }
 
-    const matchingResults = jsonData.amature.filter((item) =>
+    const matchingResults = jsonData[selectedCategory].filter((item) =>
       item.question.toLowerCase().includes(text.toLowerCase())
     );
 
     setMatchingQuestions(matchingResults);
-  }, [text]);
+  }, [text, selectedCategory]);
 
   const handleKeyDown = (event) => {
     if (event.keyCode === 32) {
       startListening();
     }
+  };
+
+  const handleCategoryChange = (event) => {
+    setSelectedCategory(event.target.value);
   };
 
   return (
@@ -34,6 +39,14 @@ function App() {
         <>
           <div>
             <button onKeyDown={handleKeyDown}>Start Listening</button>
+            <label>
+              Select Category:
+              <select value={selectedCategory} onChange={handleCategoryChange}>
+                <option value="Technician">Technician</option>
+                <option value="General">General</option>
+                <option value="Amature_Extra">Amature Extra</option>
+              </select>
+            </label>
           </div>
           {isListening ? <div>Browser is Listening</div> : null}
           <div>Voice Text: {text}</div>
