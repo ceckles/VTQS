@@ -69,15 +69,15 @@
       "answer": "10 meter band only"
     },
     {
-      "question": "Which of the following VHF/UHF band segments are limited to CW only?",
+      "question": "Which of the following VHF UHF band segments are limited to CW only?",
       "answer": "50.0 MHz to 50.1 MHz and 144.0 MHz to 144.1 MHz"
     },
     {
       "question": "How are US amateurs restricted in segments of bands where the Amateur Radio Service is secondary?",
-      "answer": "U.S. amateurs may find non-amateur stations in those segments, and must avoid interfering with them"
+      "answer": "U.S. amateurs may find non amateur stations in those segments, and must avoid interfering with them"
     },
     {
-      "question": "Why should you not set your transmit frequency to be exactly at the edge of an amateur band or sub-band?",
+      "question": "Why should you not set your transmit frequency to be exactly at the edge of an amateur band or sub band?",
       "answer": "All these choices are correct"
     },
     {
@@ -89,7 +89,7 @@
       "answer": "200 watts"
     },
     {
-      "question": "Except for some specific restrictions, what is the maximum peak envelope power output for Technician class operators using frequencies above 30 MHz?",
+      "question": "Except for some specific restrictions what is the maximum peak envelope power output for Technician class operators using frequencies above 30 MHz?",
       "answer": "1500 watts"
     },
     {
@@ -101,7 +101,7 @@
       "answer": "Any licensed amateur"
     },
     {
-      "question": "What types of international communications are an FCC-licensed amateur radio station permitted to make?",
+      "question": "What types of international communications are an FCC licensed amateur radio station permitted to make?",
       "answer": "Communications incidental to the purposes of the Amateur Radio Service and remarks of a personal character"
     },
     {
@@ -113,7 +113,7 @@
       "answer": "KF1XXX"
     },
     {
-      "question": "From which of the following locations may an FCC-licensed amateur station transmit?",
+      "question": "From which of the following locations may an FCC licensed amateur station transmit?",
       "answer": "From any vessel or craft located in international waters and documented or registered in the United States"
     },
     {
@@ -121,7 +121,7 @@
       "answer": "Failure to provide and maintain a correct email address with the FCC"
     },
     {
-      "question": "What is the normal term for an FCC-issued amateur radio license?",
+      "question": "What is the normal term for an FCC issued amateur radio license?",
       "answer": "Ten years"
     },
     {
@@ -137,11 +137,11 @@
       "answer": "No, you must wait until the license has been renewed"
     },
     {
-      "question": "With which countries are FCC-licensed amateur radio stations prohibited from exchanging communications?",
+      "question": "With which countries are FCC licensed amateur radio stations prohibited from exchanging communications?",
       "answer": "Any country whose administration has notified the International Telecommunication Union (ITU) that it objects to such communications"
     },
     {
-      "question": "Under which of the following circumstances are one-way transmissions by an amateur station prohibited?",
+      "question": "Under which of the following circumstances are one way transmissions by an amateur station prohibited?",
       "answer": "Broadcasting"
     },
     {
@@ -193,7 +193,7 @@
       "answer": "The station licensee"
     },
     {
-      "question": "What determines the transmitting frequency privileges of an amateur station?",
+      "question": "What determines the transmitting privileges of an amateur station?",
       "answer": "The class of operator license held by the control operator"
     },
     {
@@ -229,7 +229,7 @@
       "answer": "At any time upon request by an FCC representative"
     },
     {
-      "question": "How often must you identify with your FCC-assigned call sign when using tactical call signs such as “Race Headquarters”?",
+      "question": "How often must you identify with your FCC assigned call sign when using tactical call signs such as “Race Headquarters”?",
       "answer": "At the end of each communication and every ten minutes during a communication"
     },
     {
@@ -237,7 +237,7 @@
       "answer": "At least every 10 minutes during and at the end of a communication"
     },
     {
-      "question": "What language may you use for identification when operating in a phone sub-band?",
+      "question": "What language may you use for identification when operating in a phone sub band?",
       "answer": "English"
     },
     {
@@ -245,11 +245,11 @@
       "answer": "Send the call sign using a CW or phone emission"
     },
     {
-      "question": "Which of the following self-assigned indicators are acceptable when using a phone transmission?",
+      "question": "Which of the following self assigned indicators are acceptable when using a phone transmission?",
       "answer": "All these choices are correct"
     },
     {
-      "question": "Which of the following restrictions apply when a non-licensed person is allowed to speak to a foreign station using a station under the control of a licensed amateur operator?",
+      "question": "Which of the following restrictions apply when a non licensed person is allowed to speak to a foreign station using a station under the control of a licensed amateur operator?",
       "answer": "The foreign station must be in a country with which the U.S. has a third party agreement"
     },
     {
@@ -289,7 +289,7 @@
       "answer": "Transmit the other station’s call sign followed by your call sign"
     },
     {
-      "question": "Which of the following is required when making on-the-air test transmissions?",
+      "question": "Which of the following is required when making on the air test transmissions?",
       "answer": "Identify the transmitting station"
     },
     {
@@ -317,11 +317,11 @@
       "answer": "All these choices are correct"
     },
     {
-      "question": "How is a VHF/UHF transceiver’s “reverse” function used?",
-      "answer": "To listen on a repeater’s input frequency"
+      "question": "How is a VHF UHF transceiver's “reverse” function used?",
+      "answer": "To listen on a repeater's input frequency"
     },
     {
-      "question": "What term describes the use of a sub-audible tone transmitted along with normal voice audio to open the squelch of a receiver?",
+      "question": "What term describes the use of a sub audible tone transmitted along with normal voice audio to open the squelch of a receiver?",
       "answer": "CTCSS"
     },
     {
@@ -421,7 +421,7 @@
       "answer": "Absorption"
     },
     {
-      "question": "What antenna polarization is normally used for long-distance CW and SSB contacts on the VHF and UHF bands?",
+      "question": "What antenna polarization is normally used for long distance CW and SSB contacts on the VHF and UHF bands?",
       "answer": "Horizontal"
     },
     {
@@ -449,7 +449,7 @@
       "answer": "Either vertically or horizontally polarized antennas may be used for transmission or reception"
     },
     {
-      "question": "What effect does multi-path propagation have on data transmissions?",
+      "question": "What effect does multi path propagation have on data transmissions?",
       "answer": "Error rates are likely to increase"
     },
     {
@@ -510,7 +510,7 @@
     },
     {
       "question": "What is a characteristic of HF communication compared with communications on VHF and higher frequencies?",
-      "answer": "Long-distance ionospheric propagation is far more common on HF"
+      "answer": "Long distance ionospheric propagation is far more common on HF"
     },
     {
       "question": "What is a characteristic of VHF signals received via auroral backscatter?",
@@ -522,10 +522,10 @@
     },
     {
       "question": "Which of the following effects may allow radio signals to travel beyond obstructions between the transmitting and receiving stations?",
-      "answer": "Knife-edge diffraction"
+      "answer": "Knife edge diffraction"
     },
     {
-      "question": "What type of propagation is responsible for allowing over-the-horizon VHF and UHF communications to ranges of approximately 300 miles on a regular basis?",
+      "question": "What type of propagation is responsible for allowing over the horizon VHF and UHF communications to ranges of approximately 300 miles on a regular basis?",
       "answer": "Tropospheric ducting"
     },
     {
@@ -537,11 +537,11 @@
       "answer": "Temperature inversions in the atmosphere"
     },
     {
-      "question": "What is generally the best time for long-distance 10 meter band propagation via the F region?",
+      "question": "What is generally the best time for long distance 10 meter band propagation via the F region?",
       "answer": "From dawn to shortly after sunset during periods of high sunspot activity"
     },
     {
-      "question": "Which of the following bands may provide long-distance communications via the ionosphere’s F region during the peak of the sunspot cycle?",
+      "question": "Which of the following bands may provide long distance communications via the ionosphere’s F region during the peak of the sunspot cycle?",
       "answer": "6 and 10 meters"
     },
     {
@@ -557,19 +557,19 @@
       "answer": "The frequency and power level at which the measurements will be made"
     },
     {
-      "question": "Why are short, heavy-gauge wires used for a transceiver’s DC power connection?",
+      "question": "Why are short heavy gauge wires used for a transceiver's DC power connection?",
       "answer": "To minimize voltage drop when transmitting"
     },
     {
       "question": "How are the transceiver audio input and output connected in a station configured to operate using FT8?",
-      "answer": "To the audio input and output of a computer running WSJT-X software"
+      "answer": "To the audio input and output of a computer running WSJT X software"
     },
     {
       "question": "Where should an RF power meter be installed?",
       "answer": "In the feed line, between the transmitter and antenna"
     },
     {
-      "question": "What signals are used in a computer-radio interface for digital mode operation?",
+      "question": "What signals are used in a computer radio interface for digital mode operation?",
       "answer": "Receive audio, transmit audio, and transmitter keying"
     },
     {
@@ -582,7 +582,7 @@
     },
     {
       "question": "How can you determine the length of time that equipment can be powered from a battery?",
-      "answer": "Divide the battery ampere-hour rating by the average current draw of the equipment"
+      "answer": "Divide the battery ampere hour rating by the average current draw of the equipment"
     },
     {
       "question": "What function is performed with a transceiver and a digital mode hot spot?",
@@ -617,7 +617,7 @@
       "answer": "Tunes through a range of frequencies to check for activity"
     },
     {
-      "question": "Which of the following controls could be used if the voice pitch of a single-sideband signal returning to your CQ call seems too high or low?",
+      "question": "Which of the following controls could be used if the voice pitch of a single sideband signal returning to your CQ call seems too high or low?",
       "answer": "The RIT or Clarifier"
     },
     {
@@ -633,11 +633,11 @@
       "answer": "By entering the group's identification code"
     },
     {
-      "question": "Which of the following receiver filter bandwidths provides the best signal-to-noise ratio for SSB reception?",
+      "question": "Which of the following receiver filter bandwidths provides the best signal to noise ratio for SSB reception?",
       "answer": "2400 Hz"
     },
     {
-      "question": "Which of the following must be programmed into a D-STAR digital transceiver before transmitting?",
+      "question": "Which of the following must be programmed into a D STAR digital transceiver before transmitting?",
       "answer": "Your call sign"
     },
     {
@@ -706,7 +706,7 @@
     },
     {
       "question": "Which is equal to one microvolt?",
-      "answer": "One one-millionth of a volt"
+      "answer": "One one millionth of a volt"
     },
     {
       "question": "Which is equal to 500 milliwatts?",
@@ -730,7 +730,7 @@
     },
     {
       "question": "Which decibel value most closely represents a power decrease from 12 watts to 3 watts?",
-      "answer": "-6 dB"
+      "answer": " 6 dB"
     },
     {
       "question": "Which decibel value represents a power increase from 20 watts to 200 watts?",
@@ -817,7 +817,7 @@
       "answer": "8 ohms"
     },
     {
-      "question": "What is the resistance of a circuit that draws 4 amperes from a 12-volt source?",
+      "question": "What is the resistance of a circuit that draws 4 amperes from a 12 volt source?",
       "answer": "3 ohms"
     },
     {
@@ -825,23 +825,23 @@
       "answer": "1.5 amperes"
     },
     {
-      "question": "What is the current through a 100-ohm resistor connected across 200 volts?",
+      "question": "What is the current through a 100 ohm resistor connected across 200 volts?",
       "answer": "2 amperes"
     },
     {
-      "question": "What is the current through a 24-ohm resistor connected across 240 volts?",
+      "question": "What is the current through a 24 ohm resistor connected across 240 volts?",
       "answer": "10 amperes"
     },
     {
-      "question": "What is the voltage across a 2-ohm resistor if a current of 0.5 amperes flows through it?",
+      "question": "What is the voltage across a 2 ohm resistor if a current of 0.5 amperes flows through it?",
       "answer": "1 volt"
     },
     {
-      "question": "What is the voltage across a 10-ohm resistor if a current of 1 ampere flows through it?",
+      "question": "What is the voltage across a 10 ohm resistor if a current of 1 amperes flows through it?",
       "answer": "10 volts"
     },
     {
-      "question": "What is the voltage across a 10-ohm resistor if a current of 2 amperes flows through it?",
+      "question": "What is the voltage across a 10 ohm resistor if a current of 2 amperes flows through it?",
       "answer": "20 volts"
     },
     {
@@ -894,11 +894,11 @@
     },
     {
       "question": "Which of the following battery chemistries is not rechargeable?",
-      "answer": "Carbon-zinc"
+      "answer": "Carbon zinc"
     },
     {
-      "question": "What type of switch is represented by component 3 in figure T-2?",
-      "answer": "Single-pole single-throw"
+      "question": "What type of switch is represented by component 3 in figure T 2?",
+      "answer": "Single pole single throw"
     },
     {
       "question": "Which is true about forward voltage drop in a diode?",
@@ -913,19 +913,19 @@
       "answer": "Transistor"
     },
     {
-      "question": "Which of the following components can consist of three regions of semiconductor material?",
+      "question": "Which of the following components can consist of three layers of semiconductor material?",
       "answer": "Transistor"
     },
     {
       "question": "What type of transistor has a gate, drain, and source?",
-      "answer": "Field-effect"
+      "answer": "Field effect"
     },
     {
       "question": "How is the cathode lead of a semiconductor diode often marked on the package?",
       "answer": "With a stripe"
     },
     {
-      "question": "What causes a light-emitting diode (LED) to emit light?",
+      "question": "What causes a light emitting diode (LED) to emit light?",
       "answer": "Forward current"
     },
     {
@@ -997,12 +997,12 @@
       "answer": "Component connections"
     },
     {
-      "question": "Which of the following devices or circuits changes an alternating current into a varying direct current signal?",
+      "question": "Which of the following devices or circuits changes and alternating current into a varying direct current signal?",
       "answer": "Rectifier"
     },
     {
       "question": "What is a relay?",
-      "answer": "An electrically-controlled switch"
+      "answer": "An electrically controlled switch"
     },
     {
       "question": "Which of the following is a reason to use shielded wire?",
@@ -1033,7 +1033,7 @@
       "answer": "Integrated circuit"
     },
     {
-      "question": "What is the function of component 2 in figure T-1?",
+      "question": "What is the function of component 2 in figure T 1?",
       "answer": "Control the flow of current"
     },
     {
@@ -1073,7 +1073,7 @@
       "answer": "Modulation"
     },
     {
-      "question": "What is the function of the SSB/CW-FM switch on a VHF power amplifier?",
+      "question": "What is the function of the SSB/CW FM switch on a VHF power amplifier?",
       "answer": "Set the amplifier for proper operation in the selected mode"
     },
     {
@@ -1085,7 +1085,7 @@
       "answer": "Between the antenna and receiver"
     },
     {
-      "question": "What can you do if you are told your FM handheld or mobile transceiver is over-deviating?",
+      "question": "What can you do if you are told your FM handheld or mobile transceiver is over deviating?",
       "answer": "Talk farther away from the microphone"
     },
     {
@@ -1101,7 +1101,7 @@
       "answer": "Ferrite choke"
     },
     {
-      "question": "How can fundamental overload of a non-amateur radio or TV receiver by an amateur signal be reduced or eliminated?",
+      "question": "How can fundamental overload of a non amateur radio or TV receiver by an amateur signal be reduced or eliminated?",
       "answer": "Block the amateur signal with a filter at the antenna input of the affected receiver"
     },
     {
@@ -1110,14 +1110,14 @@
     },
     {
       "question": "Which of the following can reduce overload of a VHF transceiver by a nearby commercial FM station?",
-      "answer": "Installing a band-reject filter"
+      "answer": "Installing a band reject filter"
     },
     {
       "question": "What should you do if something in a neighbor’s home is causing harmful interference to your amateur station?",
       "answer": "All these choices are correct"
     },
     {
-      "question": "What should be the first step to resolve non-fiber optic cable TV interference caused by your amateur radio transmission?",
+      "question": "What should be the first step to resolve non fiber optic cable TV interference caused by your amateur radio transmission?",
       "answer": "Be sure all TV feed line coaxial connectors are installed properly"
     },
     {
@@ -1138,14 +1138,14 @@
     },
     {
       "question": "What does a dummy load consist of?",
-      "answer": "A non-inductive resistor mounted on a heat sink"
+      "answer": "A non inductive resistor mounted on a heat sink"
     },
     {
       "question": "What reading on an SWR meter indicates a perfect impedance match between the antenna and the feed line?",
       "answer": "1:1"
     },
     {
-      "question": "Why do most solid-state transmitters reduce output power as SWR increases beyond a certain level?",
+      "question": "Why do most solid state transmitters reduce output power as SWR increases beyond a certain level?",
       "answer": "To protect the output amplifier transistors"
     },
     {
@@ -1198,18 +1198,18 @@
     },
     {
       "question": "Which of the following types of solder should not be used for radio and electronic applications?",
-      "answer": "Acid-core solder"
+      "answer": "Acid core solder"
     },
     {
-      "question": "What is the characteristic appearance of a cold tin-lead solder joint?",
+      "question": "What is the characteristic appearance of a cold tin lead solder joint?",
       "answer": "A rough or lumpy surface"
     },
     {
-      "question": "What reading indicates that an ohmmeter is connected across a large, discharged capacitor?",
+      "question": "What reading indicates that an ohm meter is connected across a large discharged capacitor?",
       "answer": "Increasing resistance with time"
     },
     {
-      "question": "Which of the following precautions should be taken when measuring in-circuit resistance with an ohmmeter?",
+      "question": "Which of the following precautions should be taken when measuring in circuit resistance with an ohmmeter?",
       "answer": "Ensure that the circuit is not powered"
     },
     {
@@ -1221,7 +1221,7 @@
       "answer": "FM or PM"
     },
     {
-      "question": "Which type of voice mode is often used for long-distance (weak signal) contacts on the VHF and UHF bands?",
+      "question": "Which type of voice mode is often used for long distance (weak signal) contacts on the VHF and UHF bands?",
       "answer": "SSB"
     },
     {
@@ -1233,7 +1233,7 @@
       "answer": "CW"
     },
     {
-      "question": "Which sideband is normally used for 10 meter HF, VHF, and UHF single-sideband communications?",
+      "question": "Which sideband is normally used for 10 meter HF, VHF, and UHF single sideband communications?",
       "answer": "Upper sideband"
     },
     {
@@ -1249,7 +1249,7 @@
       "answer": "Between 10 and 15 kHz"
     },
     {
-      "question": "What is the approximate bandwidth of AM fast-scan TV transmissions?",
+      "question": "What is the approximate bandwidth of AM fast scan TV transmissions?",
       "answer": "About 6 MHz"
     },
     {
@@ -1326,7 +1326,7 @@
     },
     {
       "question": "What is a grid locator?",
-      "answer": "A letter-number designator assigned to a geographic location"
+      "answer": "A letter number designator assigned to a geographic location"
     },
     {
       "question": "How is over the air access to IRLP nodes accomplished?",
@@ -1366,11 +1366,11 @@
     },
     {
       "question": "What type of transmission is indicated by the term \"NTSC?\"",
-      "answer": "An analog fast-scan color TV signal"
+      "answer": "An analog fast scan color TV signal"
     },
     {
       "question": "Which of the following is an application of APRS?",
-      "answer": "Providing real-time tactical digital communications in conjunction with a map showing the locations of stations"
+      "answer": "Providing real time tactical digital communications in conjunction with a map showing the locations of stations"
     },
     {
       "question": "What does the abbreviation \"PSK\" mean?",
@@ -1378,7 +1378,7 @@
     },
     {
       "question": "Which of the following describes DMR?",
-      "answer": "A technique for time-multiplexing two digital voice signals on a single 12.5 kHz repeater channel"
+      "answer": "A technique for time multiplexing two digital voice signals on a single 12.5 kHz repeater channel"
     },
     {
       "question": "Which of the following is included in packet radio transmissions?",
@@ -1389,7 +1389,7 @@
       "answer": "Another name for a Morse code transmission"
     },
     {
-      "question": "Which of the following operating activities is supported by digital mode software in the WSJT-X software suite?",
+      "question": "Which of the following operating activities is supported by digital mode software in the WSJT X software suite?",
       "answer": "All these choices are correct"
     },
     {
@@ -1398,11 +1398,11 @@
     },
     {
       "question": "Which of the following best describes an amateur radio mesh network?",
-      "answer": "An amateur-radio based data network using commercial Wi-Fi equipment with modified firmware"
+      "answer": "An amateur radio based data network using commercial Wi Fi equipment with modified firmware"
     },
     {
       "question": "What is FT8?",
-      "answer": "A digital mode capable of low signal-to-noise operation"
+      "answer": "A digital mode capable of low signal to noise operation"
     },
     {
       "question": "What is a beam antenna?",
@@ -1417,7 +1417,7 @@
       "answer": "A horizontally polarized antenna"
     },
     {
-      "question": "What is a disadvantage of the short, flexible antenna supplied with most handheld radio transceivers, compared to a full-sized quarter-wave antenna?",
+      "question": "What is a disadvantage of the short, flexible antenna supplied with most handheld radio transceivers, compared to a full sized quarter wave antenna?",
       "answer": "It has low efficiency"
     },
     {
@@ -1433,15 +1433,15 @@
       "answer": "Signal strength is reduced due to the shielding effect of the vehicle"
     },
     {
-      "question": "What is the approximate length, in inches, of a quarter-wavelength vertical antenna for 146 MHz?",
+      "question": "What is the approximate length, in inches, of a quarter wavelength vertical antenna for 146 MHz?",
       "answer": "19"
     },
     {
-      "question": "What is the approximate length, in inches, of a half-wavelength 6 meter dipole antenna?",
+      "question": "What is the approximate length, in inches, of a half wavelength 6 meter dipole antenna?",
       "answer": "112"
     },
     {
-      "question": "In which direction does a half-wave dipole antenna radiate the strongest signal?",
+      "question": "In which direction does a half wave dipole antenna radiate the strongest signal?",
       "answer": "Broadside to the antenna"
     },
     {
@@ -1450,7 +1450,7 @@
     },
     {
       "question": "What is an advantage of a 5/8 wavelength whip antenna for VHF or UHF mobile service?",
-      "answer": "It has more gain than a 1/4-wavelength antenna"
+      "answer": "It has more gain than a 1/4 wavelength antenna"
     },
     {
       "question": "What is a benefit of low SWR?",
@@ -1477,7 +1477,7 @@
       "answer": "Type N"
     },
     {
-      "question": "Which of the following is true of PL-259 type coax connectors?",
+      "question": "Which of the following is true of PL 259 type coax connectors?",
       "answer": "They are commonly used at HF and VHF frequencies"
     },
     {
@@ -1489,19 +1489,19 @@
       "answer": "Loose connection in the antenna or feed line"
     },
     {
-      "question": "What is the electrical difference between RG-58 and RG-213 coaxial cable?",
-      "answer": "RG-213 cable has less loss at a given frequency"
+      "question": "What is the electrical difference between RG 58 and RG 213 coaxial cable?",
+      "answer": "RG 213 cable has less loss at a given frequency"
     },
     {
       "question": "Which of the following types of feed line has the lowest loss at VHF and UHF?",
-      "answer": "Air-insulated hardline"
+      "answer": "Air insulated hardline"
     },
     {
       "question": "What is standing wave ratio (SWR)?",
       "answer": "A measure of how well a load is matched to a transmission line"
     },
     {
-      "question": "Which of the following is a safety hazard of a 12-volt storage battery?",
+      "question": "Which of the following is a safety hazard of a 12 volt storage battery?",
       "answer": "Shorting the terminals can cause burns, fire, or an explosion"
     },
     {
@@ -1509,7 +1509,7 @@
       "answer": "All these choices are correct"
     },
     {
-      "question": "In the United States, what circuit does black wire insulation indicate in a three-wire 120 V cable?",
+      "question": "In the United States, what circuit does black wire insulation indicate in a three wire 120 V cable?",
       "answer": "Hot"
     },
     {
@@ -1517,7 +1517,7 @@
       "answer": "To remove power in case of overload"
     },
     {
-      "question": "Why should a 5-ampere fuse never be replaced with a 20-ampere fuse?",
+      "question": "Why should a 5 ampere fuse never be replaced with a 20 ampere fuse?",
       "answer": "Excessive current could cause a fire"
     },
     {
@@ -1538,7 +1538,7 @@
     },
     {
       "question": "What hazard is caused by charging or discharging a battery too quickly?",
-      "answer": "Overheating or out-gassing"
+      "answer": "Overheating or out gassing"
     },
     {
       "question": "What hazard exists in a power supply immediately after turning it off?",
@@ -1573,16 +1573,16 @@
       "answer": "Enough so that if the antenna falls, no part of it can come closer than 10 feet to the power wires"
     },
     {
-      "question": "Which of the following is an important safety rule to remember when using a crank-up tower?",
+      "question": "Which of the following is an important safety rule to remember when using a crank up tower?",
       "answer": "This type of tower must not be climbed unless it is retracted, or mechanical safety locking devices have been installed"
     },
     {
       "question": "Which is a proper grounding method for a tower?",
-      "answer": "Separate eight-foot ground rods for each tower leg, bonded to the tower and each other"
+      "answer": "Separate eight foot ground rods for each tower leg, bonded to the tower and each other"
     },
     {
       "question": "Why should you avoid attaching an antenna to a utility pole?",
-      "answer": "The antenna could contact high-voltage power lines"
+      "answer": "The antenna could contact high voltage power lines"
     },
     {
       "question": "Which of the following is true when installing grounding conductors used for lightning protection?",
@@ -1594,14 +1594,14 @@
     },
     {
       "question": "What type of radiation are radio signals?",
-      "answer": "Non-ionizing radiation"
+      "answer": "Non ionizing radiation"
     },
     {
       "question": "At which of the following frequencies does maximum permissible exposure have the lowest value?",
       "answer": "50 MHz"
     },
     {
-      "question": "How does the allowable power density for RF safety change if duty cycle changes from 100 percent to 50 percent?",
+      "question": "How does the allowable power density for RF safety change if duty cycle changes from 100% to 50%?",
       "answer": "It increases by a factor of 2"
     },
     {
@@ -1626,7 +1626,7 @@
     },
     {
       "question": "How can you make sure your station stays in compliance with RF safety regulations?",
-      "answer": "By re-evaluating the station whenever an item in the transmitter or antenna system is changed"
+      "answer": "By re evaluating the station whenever an item in the transmitter or antenna system is changed"
     },
     {
       "question": "Why is duty cycle one of the factors used to determine safe RF radiation exposure levels?",
@@ -1671,7 +1671,7 @@
       "answer": "Amateur stations must not cause harmful interference to primary users and must accept interference from primary users"
     },
     {
-      "question": "On which amateur frequencies in the 10-meter band may stations with a General class control operator transmit CW emissions?",
+      "question": "On which amateur frequencies in the 10 meter band may stations with a General class control operator transmit CW emissions?",
       "answer": "The entire band"
     },
     {
@@ -1679,11 +1679,11 @@
       "answer": "80 meters, 40 meters, 20 meters, and 15 meters"
     },
     {
-      "question": "Which of the following frequencies is within the General class portion of the 15-meter band?",
+      "question": "Which of the following frequencies is within the General class portion of the 15 meter band?",
       "answer": "21300 kHz"
     },
     {
-      "question": "What portion of the 10-meter band is available for repeater use?",
+      "question": "What portion of the 10 meter band is available for repeater use?",
       "answer": "The portion above 29.5 MHz"
     },
     {
@@ -1707,7 +1707,7 @@
       "answer": "Occasional retransmission of weather and propagation forecast information from US government stations"
     },
     {
-      "question": "Which of the following one-way transmissions are permitted?",
+      "question": "Which of the following one way transmissions are permitted?",
       "answer": "Transmissions to assist with learning the International Morse code"
     },
     {
@@ -1739,15 +1739,15 @@
       "answer": "200 watts PEP output"
     },
     {
-      "question": "What is the maximum transmitter power an amateur station may use on the 12-meter band?",
+      "question": "What is the maximum transmitter power an amateur station may use on the 12 meter band?",
       "answer": "1500 Watts PEP output"
     },
     {
-      "question": "What is the maximum bandwidth permitted by FCC rules for amateur radio stations transmitting on USB frequencies in the 60-meter band?",
+      "question": "What is the maximum bandwidth permitted by FCC rules for amateur radio stations transmitting on USB frequencies in the 60 meter band?",
       "answer": "2.8kHz"
     },
     {
-      "question": "Which of the following is required by the FCC rules when operating in the 60-meter band?",
+      "question": "Which of the following is required by the FCC rules when operating in the 60 meter band?",
       "answer": "If you are using an antenna other than a dipole, you must keep a record of the gain of your antenna"
     },
     {
@@ -1763,7 +1763,7 @@
       "answer": "Publicly document the technical characteristics of the protocol"
     },
     {
-      "question": "What is the maximum power limit on the 60-meter band?",
+      "question": "What is the maximum power limit on the 60 meter band?",
       "answer": "ERP of 100 watts PEP with respect to a dipole"
     },
     {
@@ -1772,7 +1772,7 @@
     },
     {
       "question": "Who may receive partial credit for the elements represented by an expired amateur radio license?",
-      "answer": "Any person who can demonstrate that they once held an FCC-issued General, Advanced, or Amateur Extra class license that was not revoked by the FCC"
+      "answer": "Any person who can demonstrate that they once held an FCC issued General, Advanced, or Amateur Extra class license that was not revoked by the FCC"
     },
     {
       "question": "What license examinations may you administer as an accredited Volunteer Examiner holding a General class operator license?",
@@ -1799,7 +1799,7 @@
       "answer": "A Volunteer Examiner Coordinator"
     },
     {
-      "question": "Which of the following criteria must be met for a non-US citizen to be an accredited Volunteer Examiner?",
+      "question": "Which of the following criteria must be met for a non US citizen to be an accredited Volunteer Examiner?",
       "answer": "The person must hold an FCC granted amateur radio license of General class or above"
     },
     {
@@ -1811,7 +1811,7 @@
       "answer": "18 years"
     },
     {
-      "question": "What action is required to obtain a new General class license after a previously held license has expired and the two-year grace period has passed?",
+      "question": "What action is required to obtain a new General class license after a previously held license has expired and the two year grace period has passed?",
       "answer": "The applicant must show proof of the appropriate expired license grant and pass the current Element 2 exam"
     },
     {
@@ -1823,8 +1823,8 @@
       "answer": "The third party's amateur license has been revoked and not reinstated"
     },
     {
-      "question": "When may a 10-meter repeater retransmit the 2-meter signal from a station that has a Technician class control operator?",
-      "answer": "Only if the 10-meter repeater control operator holds at least a General class license"
+      "question": "When may a 10 meter repeater retransmit the 2 meter signal from a station that has a Technician class control operator?",
+      "answer": "Only if the 10 meter repeater control operator holds at least a General class license"
     },
     {
       "question": "What is required to conduct communications with a digital station operating under automatic control outside the automatic control band segments?",
@@ -1835,7 +1835,7 @@
       "answer": "All these choices are correct"
     },
     {
-      "question": "What are the restrictions on messages sent to a third party in a country with which there is a Third-Party Agreement?",
+      "question": "What are the restrictions on messages sent to a third party in a country with which there is a Third Party Agreement?",
       "answer": "They must relate to amateur radio, or remarks of a personal character, or messages relating to emergencies or disaster relief"
     },
     {
@@ -1843,7 +1843,7 @@
       "answer": "Region 2"
     },
     {
-      "question": "In what part of the 2.4 GHz band may an amateur station communicate with non-licensed Wi-Fi stations?",
+      "question": "In what part of the 2.4 GHz band may an amateur station communicate with non licensed Wi Fi stations?",
       "answer": "No Part"
     },
     {
@@ -1851,7 +1851,7 @@
       "answer": "10 Watts"
     },
     {
-      "question": "Under what circumstances are messages that are sent via digital modes exempt from Part 97 third-party rules that apply to other modes of communication?",
+      "question": "Under what circumstances are messages that are sent via digital modes exempt from Part 97 third party rules that apply to other modes of communication?",
       "answer": "Under No Circumstances"
     },
     {
@@ -1860,10 +1860,10 @@
     },
     {
       "question": "On what bands may automatically controlled stations transmitting RTTY or data emissions communicate with other automatically controlled digital stations?",
-      "answer": "Anywhere in the 6-meter or shorter wavelength bands, and in limited segments of some of the HF bands"
+      "answer": "Anywhere in the 6 meter or shorter wavelength bands, and in limited segments of some of the HF bands"
     },
     {
-      "question": "When may third-party messages be transmitted via remote control?",
+      "question": "When may third party messages be transmitted via remote control?",
       "answer": "Under any circumstances in which third party messages are permitted by FCC rules"
     },
     {
@@ -1871,7 +1871,7 @@
       "answer": "Upper sideband"
     },
     {
-      "question": "Which mode is most commonly used for voice communications on the 160-, 75-, and 40-meter bands?",
+      "question": "Which mode is most commonly used for voice communications on the 160 , 75 , and 40 meter bands?",
       "answer": "Lower sideband"
     },
     {
@@ -1879,7 +1879,7 @@
       "answer": "Upper sideband"
     },
     {
-      "question": "Which mode is most commonly used for voice communications on the 17- and 12-meter bands?",
+      "question": "Which mode is most commonly used for voice communications on the 17  and 12 meter bands?",
       "answer": "Upper sideband"
     },
     {
@@ -1899,7 +1899,7 @@
       "answer": "Say your call sign once"
     },
     {
-      "question": "Why do most amateur stations use lower sideband on the 160-, 75-, and 40-meter bands?",
+      "question": "Why do most amateur stations use lower sideband on the 160 , 75 , and 40 meter bands?",
       "answer": "It is commonly accepted amateur practice"
     },
     {
@@ -1948,7 +1948,7 @@
     },
     {
       "question": "Who may be the control operator of an amateur station transmitting in RACES to assist relief operations during a disaster?",
-      "answer": "Only a person holding an FCC-issued amateur operator license"
+      "answer": "Only a person holding an FCC issued amateur operator license"
     },
     {
       "question": "Which of the following is good amateur practice for net management?",
@@ -2008,7 +2008,7 @@
     },
     {
       "question": "Which of the following are objectives of the Volunteer Monitor Program?",
-      "answer": "To encourage amateur radio operators to self-regulate and comply with the rules"
+      "answer": "To encourage amateur radio operators to self regulate and comply with the rules"
     },
     {
       "question": "What procedure may be used by Volunteer Monitors to localize a station whose continuous carrier is holding a repeater on in their area?",
@@ -2023,8 +2023,8 @@
       "answer": "Repeat “CQ” a few times, followed by “this is,” then your call sign a few times, then pause to listen, repeat as necessary"
     },
     {
-      "question": "How is a directional antenna pointed when making a “long-path” contact with another station?",
-      "answer": "180 degrees from the station's short-path heading"
+      "question": "How is a directional antenna pointed when making a “long path” contact with another station?",
+      "answer": "180 degrees from the station's short path heading"
     },
     {
       "question": "Which of the following are examples of the NATO Phonetic Alphabet?",
@@ -2040,7 +2040,7 @@
     },
     {
       "question": "What is QRP operation?",
-      "answer": "Low-power transmit operation"
+      "answer": "Low power transmit operation"
     },
     {
       "question": "Why are signal reports typically exchanged at the beginning of an HF contact?",
@@ -2075,7 +2075,7 @@
       "answer": "Computer time accurate to within approximately 1 second"
     },
     {
-      "question": "In what segment of the 20-meter band are most digital mode operations commonly found?",
+      "question": "In what segment of the 20 meter band are most digital mode operations commonly found?",
       "answer": "Between 14.070 MHz and 14.100 MHz"
     },
     {
@@ -2088,7 +2088,7 @@
     },
     {
       "question": "What is the primary purpose of an Amateur Radio Emergency Data Network (AREDN) mesh network?",
-      "answer": "To provide high-speed data services during an emergency or community event"
+      "answer": "To provide high speed data services during an emergency or community event"
     },
     {
       "question": "Which of the following describes Winlink?",
@@ -2115,11 +2115,11 @@
       "answer": "It disrupts signals on lower frequencies more than those on higher frequencies"
     },
     {
-      "question": "Approximately how long does it take the increased ultraviolet and X-ray radiation from a solar flare to affect radio propagation on Earth?",
+      "question": "Approximately how long does it take the increased ultraviolet and X ray radiation from a solar flare to affect radio propagation on Earth?",
       "answer": "8 Minutes"
     },
     {
-      "question": "Which of the following are the least reliable bands for long-distance communications during periods of low solar activity?",
+      "question": "Which of the following are the least reliable bands for long distance communications during periods of low solar activity?",
       "answer": "15 meters, 12 meters, and 10 meters"
     },
     {
@@ -2131,19 +2131,19 @@
       "answer": "A temporary disturbance in Earth's geomagnetic field"
     },
     {
-      "question": "At what point in the solar cycle does the 20-meter band usually support worldwide propagation during daylight hours?",
+      "question": "At what point in the solar cycle does the 20 meter band usually support worldwide propagation during daylight hours?",
       "answer": "At any point"
     },
     {
       "question": "How can a geomagnetic storm affect HF propagation?",
-      "answer": "Degrade high-latitude HF propagation"
+      "answer": "Degrade high latitude HF propagation"
     },
     {
       "question": "How can high geomagnetic activity benefit radio communications?",
       "answer": "Creates auroras that can reflect VHF signals"
     },
     {
-      "question": "What causes HF propagation conditions to vary periodically in a 26- to 28-day cycle?",
+      "question": "What causes HF propagation conditions to vary periodically in a 26  to 28 day cycle?",
       "answer": "Rotation of the Sun's surface layers around its axis"
     },
     {
@@ -2151,19 +2151,19 @@
       "answer": "15 Hours to several days"
     },
     {
-      "question": "What does the K-index measure?",
-      "answer": "The short-term stability of Earth's geomagnetic field"
+      "question": "What does the K index measure?",
+      "answer": "The short term stability of Earth's geomagnetic field"
     },
     {
-      "question": "What does the A-index measure?",
-      "answer": "The long-term stability of Earth's geomagnetic field"
+      "question": "What does the A index measure?",
+      "answer": "The long term stability of Earth's geomagnetic field"
     },
     {
       "question": "How is long distance radio communication usually affected by the charged particles that reach Earth from solar coronal holes?",
       "answer": "HF communication is disturbed"
     },
     {
-      "question": "What is a characteristic of skywave signals arriving at your location by both short-path and long-path propagation?",
+      "question": "What is a characteristic of skywave signals arriving at your location by both short path and long path propagation?",
       "answer": "A slightly delayed echo might be heard"
     },
     {
@@ -2227,7 +2227,7 @@
       "answer": "The highest takeoff angle that will return a radio wave to Earth under specific ionospheric conditions"
     },
     {
-      "question": "Why is long distance communication on the 40- 60- 80- and 160 meter bands more difficult during the day?",
+      "question": "Why is long distance communication on the 40  60  80  and 160 meter bands more difficult during the day?",
       "answer": "The D region absorbs signals at these frequencies during daylight hours"
     },
     {
