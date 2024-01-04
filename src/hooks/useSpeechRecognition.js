@@ -1,14 +1,14 @@
 import { useEffect } from "react";
 import { useState } from "react";
 
-let recognition = null; // Corrected typo in the variable name
-if ("webkitSpeechRecognition" in window) { // Corrected typo in "window"
+let recognition = null; 
+if ("webkitSpeechRecognition" in window) { 
     recognition = new webkitSpeechRecognition();
     recognition.continuous = true;
     recognition.lang = "en-us";
 }
 
-const useSpeechRecognition = () => { // Corrected typo in the function name
+const useSpeechRecognition = () => { 
     const [text, setText] = useState("");
     const [isListening, setIsListening] = useState(false);
 
